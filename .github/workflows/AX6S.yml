@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Redmi_AX6S
+name: Redmi_AX6s_Namidairo_Patch
 
 on:
   repository_dispatch:
