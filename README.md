@@ -6,6 +6,7 @@
 
 
 Installation:
+    
     1. Flash stock Xiaomi "closed beta" image labelled
     'miwifi_rb03_firmware_stable_1.2.7_closedbeta.bin'.
     (MD5: 5eedf1632ac97bb5a6bb072c08603ed7)
