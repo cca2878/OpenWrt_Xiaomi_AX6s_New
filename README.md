@@ -4,6 +4,7 @@
 由于AX6s需要应用Patch来更改固件OOB_Size，因而单独开一仓库用于编译。
 新Patch，优化分区：ax6s_namidairo1.patch
 
+
 Installation:
     1. Flash stock Xiaomi "closed beta" image labelled
     'miwifi_rb03_firmware_stable_1.2.7_closedbeta.bin'.
