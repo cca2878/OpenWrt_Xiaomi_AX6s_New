@@ -17,8 +17,8 @@ sed -i 's/192.168.1.1/192.168.10.1/g' package/base-files/files/bin/config_genera
 sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' package/base-files/files/etc/sysctl.conf
 
 # Add luci-theme-argon
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon package/lean/luci-theme-argon
+git clone https://github.com/jerrykuku/luci-theme-argon.git
 git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-argon-config
 
 #添加额外非必须软件包
-git clone https://github.com/kiddin9/openwrt-packages package
+# git clone https://github.com/kiddin9/openwrt-packages package
